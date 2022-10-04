@@ -1,0 +1,14 @@
+var c = 1 //while
+while( c <= 6){
+    console.log(`Passo ${c}`)
+    c++
+}
+var d = 1 // do while
+do{
+    console.log(`Passo ${d}`)
+    d++
+}while (d <= 6)
+
+for(var a = 1; c <= 10; a++){
+    console.log(`${a}`)
+}
